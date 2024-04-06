@@ -1,0 +1,7 @@
+.card {
+    box-shadow: 5px 4px 4px #2C3E50;
+}
+
+input, textarea {
+    border: 0.3px solid #2C3E50 !important;
+}
